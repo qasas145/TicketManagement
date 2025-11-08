@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Y7Bx5BIlXE3/Mq8OL7XBrc5UJhZRiD275WyjQi0zo6M=",
+  "Source": "TicketManagement.Services.Auth",
+  "BasePath": "_content/TicketManagement.Services.Auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

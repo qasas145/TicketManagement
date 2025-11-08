@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "OLzuiHkZ9HrHFVQNO40rP5i2RdpTDaRuI/oR2qgn1qo=",
+  "Source": "TicketManagement.Services.Search",
+  "BasePath": "_content/TicketManagement.Services.Search",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\hp\\Desktop\\programming\\DotNet projects\\ticket management\\src\\TicketManagement.Services.Events\\TicketManagement.Services.Events.csproj",
+      "Version": 2,
+      "Source": "TicketManagement.Services.Events",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

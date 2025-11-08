@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ObUVqIR8SUpxRBMc3Dcy3jO5xsSQ62y898G3jni7OcY=",
+  "Source": "TicketManagement.Services.Inventory",
+  "BasePath": "_content/TicketManagement.Services.Inventory",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

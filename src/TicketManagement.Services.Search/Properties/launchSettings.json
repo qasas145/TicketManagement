@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TicketManagement.Services.Search": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:61042;http://localhost:61043"
+    }
+  }
+}

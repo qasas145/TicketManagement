@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xAuAksADJZudcJnPzhDkx9Z+PS1uwLA2Qm4eQiQeqHI=",
+  "Source": "TicketManagement.Services.Events",
+  "BasePath": "_content/TicketManagement.Services.Events",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

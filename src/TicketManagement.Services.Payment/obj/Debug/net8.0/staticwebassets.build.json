@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "W/VRXrrEqAzmo67d76DVHGDpzlGUE0wFEalrmmT1bnI=",
+  "Source": "TicketManagement.Services.Payment",
+  "BasePath": "_content/TicketManagement.Services.Payment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

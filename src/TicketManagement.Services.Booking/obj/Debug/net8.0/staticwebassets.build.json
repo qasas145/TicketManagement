@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5QKtNKJf1mEuSjEsR9XtuIM8CbyeRehQNi/jGu/IpvY=",
+  "Source": "TicketManagement.Services.Booking",
+  "BasePath": "_content/TicketManagement.Services.Booking",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "BM72Sw2oOg8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\programming\\DotNet projects\\ticket management\\src\\TicketManagement.Infrastructure\\TicketManagement.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\8.0.0\\microsoft.extensions.caching.stackexchangeredis.8.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\stackexchange.redis\\2.7.20\\stackexchange.redis.2.7.20.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.io.pipelines\\9.0.10\\system.io.pipelines.9.0.10.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.text.encodings.web\\9.0.10\\system.text.encodings.web.9.0.10.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.text.json\\9.0.10\\system.text.json.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

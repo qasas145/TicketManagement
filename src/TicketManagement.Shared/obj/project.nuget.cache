@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X8BPm3UOdjo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\programming\\DotNet projects\\ticket management\\src\\TicketManagement.Shared\\TicketManagement.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\system.io.pipelines\\9.0.10\\system.io.pipelines.9.0.10.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.text.encodings.web\\9.0.10\\system.text.encodings.web.9.0.10.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.text.json\\9.0.10\\system.text.json.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
